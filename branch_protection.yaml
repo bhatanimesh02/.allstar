@@ -4,6 +4,6 @@ optConfig:
 action: issue
 enforceDefault: true
 requireApproval: true
-approvalCount: 1
+approvalCount: 2
 dismissStale: false
 blockForce: true
